@@ -1,0 +1,19 @@
+
+.top-main-section li{
+    background-color: rgb(155, 26, 47);
+    color: white;
+    width: 100%;
+    text-align: center;
+    border: 0.25rem ridge rgb(255, 255, 255); 
+}
+
+.top-main-section img{
+    width: 3rem;
+}
+.container{
+    margin: 0.20rem;
+}
+
+
+
+
